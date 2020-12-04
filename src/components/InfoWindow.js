@@ -794,7 +794,7 @@ export class InfoWindow extends Component {
           textColumns = 1;
         } else {
           textColumns = Math.ceil(
-            this.scrollColumnParagraphRef.current.scrollWidth / (this.scrollColumnParagraphRef.current.clientWidth + 20)
+            this.scrollColumnParagraphRef.current.scrollWidth / (this.scrollColumnParagraphRef.current.clientWidth + 40)
           );
         }
         // textColumns = textColumns = Math.ceil(this.scrollColumnParagraphRef.current.scrollWidth / this.textCarouselRef.current.clientWidth);
