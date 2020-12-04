@@ -788,13 +788,13 @@ export class InfoWindow extends Component {
         this.setState({ columnWidth: columnWidth });
         console.log(this.scrollColumnParagraphRef.current.scrollWidth);
         console.log("aaaa");
-        console.log(this.textCarouselRef.current.scrollHeight);
+        console.log(this.textCarouselRef.current.clientWidth);
         let textColumns;
         if (this.scrollColumnParagraphRef.current.scrollWidth === this.textCarouselRef.current.clientWidth) {
           textColumns = 1;
         } else {
           textColumns = Math.ceil(
-            this.scrollColumnParagraphRef.current.scrollWidth / (this.scrollColumnParagraphRef.current.clientWidth + 40)
+            this.scrollColumnParagraphRef.current.scrollWidth / (this.scrollColumnParagraphRef.current.clientWidth + 64)
           );
         }
         // textColumns = textColumns = Math.ceil(this.scrollColumnParagraphRef.current.scrollWidth / this.textCarouselRef.current.clientWidth);
@@ -802,7 +802,7 @@ export class InfoWindow extends Component {
         //console.log(this.scrollColumnParagraphRef.current.clientWidth);
         //console.log(this.scrollColumnParagraphRef.current.scrollWidth);
         // console.log("column count");
-        // console.log(textColumns);
+        console.log(textColumns);
         this.setState({ textColumns: textColumns });
       }
     }
