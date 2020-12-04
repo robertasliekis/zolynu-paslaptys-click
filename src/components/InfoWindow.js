@@ -789,6 +789,7 @@ export class InfoWindow extends Component {
         console.log(this.scrollColumnParagraphRef.current.scrollWidth);
         console.log("aaaa");
         console.log(this.textCarouselRef.current.clientWidth);
+        console.log(this.textCarouselRef.current.clientHeight);
         let textColumns;
         if (this.scrollColumnParagraphRef.current.scrollWidth === this.textCarouselRef.current.clientWidth) {
           textColumns = 1;
@@ -873,7 +874,7 @@ export class InfoWindow extends Component {
             <div className="content content-right">
               <div className="text-container">
                 <h1>{plants[this.props.plantIndex].name}</h1>
-                <div className="text-carousel" ref={this.textCarouselRef}>
+                <div className="text-carousel" ref={this.textCarouselRef} key={this.props.plantOpen}>
                   <p
                     ref={this.scrollColumnParagraphRef}
                     key={this.state.columnWidth}
