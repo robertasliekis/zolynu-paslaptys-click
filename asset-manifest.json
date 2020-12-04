@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/zolynu-paslaptys-click/static/css/main.c41f6b45.chunk.css",
-    "main.js": "/zolynu-paslaptys-click/static/js/main.040c94e8.chunk.js",
-    "main.js.map": "/zolynu-paslaptys-click/static/js/main.040c94e8.chunk.js.map",
+    "main.js": "/zolynu-paslaptys-click/static/js/main.c88b5899.chunk.js",
+    "main.js.map": "/zolynu-paslaptys-click/static/js/main.c88b5899.chunk.js.map",
     "runtime-main.js": "/zolynu-paslaptys-click/static/js/runtime-main.84b57377.js",
     "runtime-main.js.map": "/zolynu-paslaptys-click/static/js/runtime-main.84b57377.js.map",
     "static/js/2.73a7ac12.chunk.js": "/zolynu-paslaptys-click/static/js/2.73a7ac12.chunk.js",
     "static/js/2.73a7ac12.chunk.js.map": "/zolynu-paslaptys-click/static/js/2.73a7ac12.chunk.js.map",
     "index.html": "/zolynu-paslaptys-click/index.html",
-    "precache-manifest.6fd0c64b1694b0874f5f1324970a5553.js": "/zolynu-paslaptys-click/precache-manifest.6fd0c64b1694b0874f5f1324970a5553.js",
+    "precache-manifest.36adb97232e0fc951124a2966d60139f.js": "/zolynu-paslaptys-click/precache-manifest.36adb97232e0fc951124a2966d60139f.js",
     "service-worker.js": "/zolynu-paslaptys-click/service-worker.js",
     "static/css/main.c41f6b45.chunk.css.map": "/zolynu-paslaptys-click/static/css/main.c41f6b45.chunk.css.map",
     "static/js/2.73a7ac12.chunk.js.LICENSE.txt": "/zolynu-paslaptys-click/static/js/2.73a7ac12.chunk.js.LICENSE.txt",
@@ -157,6 +157,6 @@
     "static/js/runtime-main.84b57377.js",
     "static/js/2.73a7ac12.chunk.js",
     "static/css/main.c41f6b45.chunk.css",
-    "static/js/main.040c94e8.chunk.js"
+    "static/js/main.c88b5899.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f4708e8030ffc7748fd73fd84ab05a0",
+    "revision": "ac7b9696671e1621ede526887dcac3f2",
     "url": "/zolynu-paslaptys-click/index.html"
   },
   {
-    "revision": "90440edd505c3cd8aa57",
+    "revision": "672c6fd73cb8a29f5d1c",
     "url": "/zolynu-paslaptys-click/static/css/main.c41f6b45.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zolynu-paslaptys-click/static/js/2.73a7ac12.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "90440edd505c3cd8aa57",
-    "url": "/zolynu-paslaptys-click/static/js/main.040c94e8.chunk.js"
+    "revision": "672c6fd73cb8a29f5d1c",
+    "url": "/zolynu-paslaptys-click/static/js/main.c88b5899.chunk.js"
   },
   {
     "revision": "ab005524e3a4d1dd838c",
