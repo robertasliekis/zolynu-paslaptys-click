@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/zolynu-paslaptys-click/precache-manifest.f7ce5b9dc13b556a760188068bae5a47.js"
+  "/zolynu-paslaptys-click/precache-manifest.050cfc6e633d5860335a46dc33e64e9e.js"
 );
 
 self.addEventListener('message', (event) => {

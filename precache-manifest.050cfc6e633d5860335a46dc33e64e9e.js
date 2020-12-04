@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "941c372e4b1602aec5a64bb9e01a1d7f",
+    "revision": "dd1d014b15ff18d702370fe90f0a6298",
     "url": "/zolynu-paslaptys-click/index.html"
   },
   {
-    "revision": "fed313ac3eb6159df424",
-    "url": "/zolynu-paslaptys-click/static/css/main.1cc19f5b.chunk.css"
+    "revision": "f11a87b17d2e128e5135",
+    "url": "/zolynu-paslaptys-click/static/css/main.d2efedb4.chunk.css"
   },
   {
     "revision": "0b71917717c3035fd365",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zolynu-paslaptys-click/static/js/2.73a7ac12.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fed313ac3eb6159df424",
-    "url": "/zolynu-paslaptys-click/static/js/main.f527e3a1.chunk.js"
+    "revision": "f11a87b17d2e128e5135",
+    "url": "/zolynu-paslaptys-click/static/js/main.973a13e2.chunk.js"
   },
   {
     "revision": "ab005524e3a4d1dd838c",
